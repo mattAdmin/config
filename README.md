@@ -1,1 +1,1 @@
-# config
+Miscellaneous config files
